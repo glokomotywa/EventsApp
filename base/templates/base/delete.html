@@ -1,0 +1,22 @@
+{% extends 'main.html' %}
+{% block content %}
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title mb-4">Confirm Delete</h2>
+                    <form method="POST">
+                        {% csrf_token %}
+                        <p>Are you sure you want to delete "{{obj}}"?</p>
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                            <a href="{{request.META.HTTP_REFERER}}" class="btn btn-outline-secondary">Cancel</a>
+                            <button type="submit" class="btn btn-danger">Confirm Delete</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
