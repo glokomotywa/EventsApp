@@ -66,7 +66,6 @@ python manage.py runserver
 - Panel administracyjny: http://127.0.0.1:8000/admin
 
 ## ✨ Funkcje
-✨ Funkcje
 
 Dla użytkowników:
 
@@ -90,3 +89,21 @@ Dla administratorów:
 ```bash
 python manage.py eventstats
 ```
+
+## Pomoce
+
+Tutoriale na YouTube:
+[Python Django Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours](https://www.youtube.com/watch?v=Rp5vd34d-z4), Autor: Dave Gray
+
+[Django Tutorial for Beginners – Build Powerful Backends]((https://www.youtube.com/watch?v=rHux0gMZ3Eg)), Autor: Programming with Mosh
+
+[Django Tutorial - How to Add Bootstrap](https://www.youtube.com/watch?v=0mCZdemSsbs), Autor: Tech With Tim
+
+[Python Django 7 Hour Course](https://www.youtube.com/watch?v=PtQiiknWUcI), Autor: Traversy Media
+
+[Learn Django in 20 Minutes!!](https://www.youtube.com/watch?v=nGIg40xs9e4), Autor: Tech With Tim
+
+Inne:
+
+Debugowanie: [Deepseek](https://www.deepseek.com/), modek R1, Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd.
+
