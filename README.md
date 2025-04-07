@@ -20,14 +20,14 @@ Aplikacja webowa oparta na Django, która umożliwia:
 - **Wyrażanie zainteresowania** poprzez przycisk "Jestem zainteresowany"  
 
 ---
-
+<a name="-wymagania" ></a>
 ## Wymagania  
 - Python 3.9 lub nowszy  
 - System kontroli wersji Git (opcjonalnie)  
 - Zalecane środowisko wirtualne (`virtualenv`)  
 
 ---
-
+<a name="-instalacja" ></a>
 ## Instalacja  
 1. Sklonuj repozytorium:  
 ```bash  
@@ -48,8 +48,8 @@ python -m venv venv
 ```bash
 pip install -r requirements.txt  
 ```
-
-## ⚙ Konfiguracja
+<a name="-konfiguracja" ></a>
+## Konfiguracja
 1. Wykonaj migracje do bazy danych
 ```bash
 python manage.py migrate  
@@ -58,14 +58,14 @@ python manage.py migrate
 ```bash
 python manage.py createsuperuser  
 ```
-
+<a name="-uruchomienie" ></a>
 ## Uruchomienie
 ```bash
 python manage.py runserver  
 ```
 - Strona główna: http://127.0.0.1:8000/
 - Panel administracyjny: http://127.0.0.1:8000/admin
-
+<a name="-funkcje" ></a>
 ## Funkcje
 
 Dla użytkowników:
@@ -90,7 +90,7 @@ Dla administratorów:
 ```bash
 python manage.py eventstats
 ```
-
+<a name="-pomoce" ></a>
 ## Pomoce
 
 Tutoriale na YouTube:
