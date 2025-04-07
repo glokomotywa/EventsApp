@@ -1,7 +1,7 @@
 # EventsApp - Aplikacja do zarządzania wydarzeniami  
 **Repozytorium**: [https://github.com/glokomotywa/EventsApp](https://github.com/glokomotywa/EventsApp)  
 
-## 📋 Spis treści  
+## Spis treści  
 1. [Opis](#-opis)  
 2. [Wymagania](#-wymagania)  
 3. [Instalacja](#-instalacja)  
@@ -11,8 +11,8 @@
 7. [Funkcje](#-funkcje)
 8. [Pomoce](#-pomoce)
 ---
-
-## 📝 Opis  
+<a name="opis" ></a>
+## Opis
 Aplikacja webowa oparta na Django, która umożliwia:  
 - **Rejestrację i logowanie użytkowników**  
 - **Tworzenie wydarzeń** z opisem, datą i lokalizacją  
@@ -21,14 +21,14 @@ Aplikacja webowa oparta na Django, która umożliwia:
 
 ---
 
-## 🛠 Wymagania  
+## Wymagania  
 - Python 3.9 lub nowszy  
 - System kontroli wersji Git (opcjonalnie)  
 - Zalecane środowisko wirtualne (`virtualenv`)  
 
 ---
 
-## 🚀 Instalacja  
+## Instalacja  
 1. Sklonuj repozytorium:  
 ```bash  
 git clone https://github.com/glokomotywa/EventsApp.git  
@@ -59,14 +59,14 @@ python manage.py migrate
 python manage.py createsuperuser  
 ```
 
-## ▶ Uruchomienie
+## Uruchomienie
 ```bash
 python manage.py runserver  
 ```
 - Strona główna: http://127.0.0.1:8000/
 - Panel administracyjny: http://127.0.0.1:8000/admin
 
-## ✨ Funkcje
+## Funkcje
 
 Dla użytkowników:
 
