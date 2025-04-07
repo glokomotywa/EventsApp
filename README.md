@@ -11,7 +11,7 @@
 7. [Funkcje](#-funkcje)
 8. [Pomoce](#-pomoce)
 ---
-<a name="opis" ></a>
+<a name="-opis" ></a>
 ## Opis
 Aplikacja webowa oparta na Django, która umożliwia:  
 - **Rejestrację i logowanie użytkowników**  
