@@ -7,9 +7,8 @@
 3. [Instalacja](#-instalacja)  
 4. [Konfiguracja](#-konfiguracja)  
 5. [Uruchomienie](#-uruchomienie)  
-6. [Struktura projektu](#-struktura-projektu)  
-7. [Funkcje](#-funkcje)
-8. [Pomoce](#-pomoce)
+6. [Funkcje](#-funkcje)
+7. [Pomoce](#-pomoce)
 ---
 <a name="-opis" ></a>
 ## Opis
