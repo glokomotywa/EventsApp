@@ -9,10 +9,6 @@
 5. [Uruchomienie](#-uruchomienie)  
 6. [Struktura projektu](#-struktura-projektu)  
 7. [Funkcje](#-funkcje)  
-8. [Zależności](#-zależności)  
-9. [Rozwiązywanie problemów](#-rozwiązywanie-problemów)  
-10. [Licencja](#-licencja)  
-
 ---
 
 ## 📝 Opis  
