@@ -56,7 +56,7 @@ python manage.py migrate
 2. Utwórz konto administratora
 ```bash
 python manage.py createsuperuser  
-```bash
+```
 
 ## ▶ Uruchomienie
 ```bash
